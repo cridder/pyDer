@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "pyDer",
+    "description": "A collection of tools for Revit.",
+    "author": "cridder",
+    "author_profile": "https://www.linkedin.com/in/chrisridder/",
+    "url": "https://github.com/cridder/pyDer",
+    "website": "https://www.linkedin.com/in/chrisridder/",
+    "image": "",
+    "dependencies": []
+    }
